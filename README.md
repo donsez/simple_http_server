@@ -4,7 +4,7 @@
 
 ## Build and start the container
 ```bash
-git clone 
+git clone https://github.com/donsez/simple_http_server.git
 cd simple_http_server
 docker-compose up -d
 docker-compose ps
